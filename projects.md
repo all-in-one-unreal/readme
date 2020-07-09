@@ -6,7 +6,7 @@
 
 * [BuildingEscape](https://github.com/all-in-one-unreal/BuildingEscape)----第一人称密室逃脱，带触发开门及开门音效
 
-* []()----
+* [/CameraVolumes](https://github.com/all-in-one-unreal/CameraVolumes)----侧卷游戏的相机系统，类似于2D横板游戏，看按照不同的场景观察的相机视角发生变化
 
 * []()----
 
