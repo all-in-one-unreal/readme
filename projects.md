@@ -8,7 +8,7 @@
 
 * [/CameraVolumes](https://github.com/all-in-one-unreal/CameraVolumes)----侧卷游戏的相机系统，类似于2D横板游戏，看按照不同的场景观察的相机视角发生变化
 
-* []()----
+* [die-together](https://github.com/all-in-one-unreal/die-together)----卡通风格的2D横版游戏，类似于超级玛丽。
 
 * []()----
 
