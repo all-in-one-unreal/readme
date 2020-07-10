@@ -18,6 +18,12 @@
 
 * [a_game](https://github.com/all-in-one-unreal/a_game)----移动靶的第一人称射击游戏
 
+* [Comp590A6Gibeau](https://github.com/all-in-one-unreal/Comp590A6Gibeau)----第一人称锁定物体并自动移向物体，点击拾取
+
+* []()----
+
+* []()----
+
 * []()----
 
 * []()----
