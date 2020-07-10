@@ -32,9 +32,9 @@
 
 * [Comp590A6Gibeau](https://github.com/all-in-one-unreal/Comp590A6Gibeau)----第一人称锁定物体并自动移向物体，点击拾取
 
-* [Unreal-EndlessRunner-1](https://github.com/all-in-one-unreal/Unreal-EndlessRunner-1)----酷跑游戏
+* [Unreal-EndlessRunner-1](https://github.com/all-in-one-unreal/Unreal-EndlessRunner-1)----酷跑游戏，能吃金币，撞到障碍物会播放死亡动画
 
-* []()----
+* [Unreal-EndlessRunner](https://github.com/all-in-one-unreal/Unreal-EndlessRunner)----酷跑游戏，撞到障碍物会触发爆炸特效
 
 * []()----
 
