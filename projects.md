@@ -65,9 +65,9 @@
 
 * [cascade_to_niagara](https://github.com/all-in-one-unreal/cascade_to_niagara)----cascade to niagara
 
-* []()----
+* [NiagaraShowcase](https://github.com/all-in-one-unreal/NiagaraShowcase)----
 
-* []()----
+* [UE4LeapMotionFX](https://github.com/all-in-one-unreal/UE4LeapMotionFX)----
 
 * []()----
 
